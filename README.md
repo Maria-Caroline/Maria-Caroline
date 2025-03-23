@@ -2,7 +2,7 @@
 
 - 💻 Trabalhando com Front-End 
 - 🌱 Atualmente estudando Next.js
-- 😄 Pronomes: ela/dela
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 
 ## Conhecimentos Avançados
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)

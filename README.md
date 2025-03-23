@@ -1,4 +1,5 @@
-## Olá, meu nome é Maria Caroline!👋
+## Olá, meu nome é Maria Caroline!👋 
+_Mas pode me chamar de Mary_ 😊
 
 - 💻 Trabalhando com Front-End 
 - 🌱 Atualmente estudando Next.js

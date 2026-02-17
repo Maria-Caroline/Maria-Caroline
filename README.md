@@ -13,11 +13,13 @@ _Mas pode me chamar de Mary_ 😊
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-323330?style=flat&logo=tailwindcss)
 ![Node](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
 
 ## Conhecimentos Breves
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-333333?style=flat&logo=spring)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
+
+
